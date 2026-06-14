@@ -1,6 +1,6 @@
 # Olá, eu sou a Fransimone Pinheiro 👋
 
-Estudante de **Data Analytics** focada em transformar dados brutos em soluções eficientes e insights de valor. Atualmente, estou aprofundando meus conhecimentos na estrutura e manipulação de bancos de dados relacionais.
+Estudante de **Data Analytics** focada em transformar dados brutos em soluções eficientes e insights de valor. Atualmente, estou estudando SQL para dominar a estrutura e a manipulação de bancos de dados relacionais.
 
 ---
 
