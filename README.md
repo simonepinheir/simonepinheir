@@ -17,7 +17,7 @@ Aqui estão as ferramentas e tecnologias que utilizo e estudo ativamente no meu 
 ---
 
 🎯 **Foco Atual de Aprendizado**
-No momento, estou construindo a minha base em Banco de Dados Relacionais, aprendendo a projetar e estruturar bancos do zero. Meus estudos estão focados em:
+- No momento, estou construindo a minha base em Banco de Dados Relacionais, aprendendo a projetar e estruturar bancos do zero. Meus estudos estão focados em:
 
 Modelagem e Estrutura: Entender como criar entidades, tabelas, atributos e como definir as cardinalidades.
 
