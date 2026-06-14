@@ -19,18 +19,18 @@ Aqui estão as ferramentas e tecnologias que utilizo e estudo ativamente no meu 
 🎯 **Foco Atual de Aprendizado**
 - No momento, estou construindo a minha base em Banco de Dados Relacionais, aprendendo a projetar e estruturar bancos do zero. Meus estudos estão focados em:
 
-Modelagem e Estrutura: Entender como criar entidades, tabelas, atributos e como definir as cardinalidades.
+- Modelagem e Estrutura: Entender como criar entidades, tabelas, atributos e como definir as cardinalidades.
 
-Relacionamentos entre Tabelas: Aprendendo a conectar as tabelas de forma inteligente através de chaves primárias e estrangeiras, garantindo que os dados façam sentido juntos.
+- Relacionamentos entre Tabelas: Aprendendo a conectar as tabelas de forma inteligente através de chaves primárias e estrangeiras, garantindo que os dados façam sentido juntos.
 
-Otimização e Consistência: Estudo sobre normalização de dados e como aplicar as Formas Normais para planejar bancos organizados e sem repetições desnecessárias.
+- Otimização e Consistência: Estudo sobre normalização de dados e como aplicar as Formas Normais para planejar bancos organizados e sem repetições desnecessárias.
 
-Comandos e Funcionalidades: Aprendizado sobre o papel de cada operação no PostgreSQL (compreendendo o objetivo de comandos como INSERT, UPDATE, DELETE, SELECT e vários outros).
+- Comandos e Funcionalidades: Aprendizado sobre o papel de cada operação no PostgreSQL (compreendendo o objetivo de comandos como INSERT, UPDATE, DELETE, SELECT e vários outros).
 
-Ambiente Técnico: Primeiros passos no funcionamento da interface do pgAdmin e na arquitetura do PostgreSQL.
+**Ambiente Técnico:** Primeiros passos no funcionamento da interface do pgAdmin e na arquitetura do PostgreSQL.
 
 🚀**O que vem por aí (Meus Próximos Passos):**
-Depois de consolidar essa base de criação e estrutura, meus próximos objetivos serão avançar para a manipulação prática de dados, além de expandir para processos de ETL (Extração, Transformação e Carga), programação com Python e a criação de dashboards no Power BI Desktop.
+- Depois de consolidar essa base de criação e estrutura, meus próximos objetivos serão avançar para a manipulação prática de dados, além de expandir para processos de ETL (Extração, Transformação e Carga), programação com Python e a criação de dashboards no Power BI Desktop.
 
 ---
 
